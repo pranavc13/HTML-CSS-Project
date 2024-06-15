@@ -1,0 +1,15 @@
+This project is the clone of Microsoft Home-Page, Performed under the guidance od Traversy Media...
+I used various concepts of CSS such as:
+1) Grid: To place the cards accordingly and clealry;
+
+2) Flex box: to align the different elements properly; 
+  By using the properties such as:
+    *Flex-direction
+    *Justify-content 
+
+3) The hover transition, reducing the opacity to 0.9 while hovering on the buttons,
+
+4) Using the lists concept for the Navigation bar and footer;
+5) Using the Cdn of font awesome to connect to the nearest server.
+
+    
